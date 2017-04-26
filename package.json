@@ -1,6 +1,6 @@
 {
   "name": "@jeremyjonas/runjs",
-  "version": "3.2.1",
+  "version": "4.0.0",
   "description": "Minimalistic building tool",
   "keywords": [
     "build",
