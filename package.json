@@ -1,5 +1,5 @@
 {
-  "name": "runjs",
+  "name": "@jeremyjonas/runjs",
   "version": "3.2.1",
   "description": "Minimalistic building tool",
   "keywords": [
